@@ -1,8 +1,9 @@
 # AirLight
-TL;DR: Visualizing air pollution through light using Arduino Nano 33 IoT and open-source data
-![image](https://github.com/miachervenkova/AirLight/assets/144074897/05f07f19-7caa-450a-bf77-9aafb0f89d69)
+TL;DR: Visualizing air pollution with LEDs using Arduino Nano 33 IoT and open-source data
 
 The AirLight project aims to create a lamp that changes color based on air quality data. This project involves using an Arduino Nano 33 IoT to connect to a WiFi network, retrieve air quality data from a specified server, parse the data, and control an RGB LED strip to display different colors corresponding to different levels of particulate matter (PM) pollution. For more info on my Senior Independent Honors Project, check out https://sites.google.com/acsbg.org/airlight/home
+
+![image](https://github.com/miachervenkova/AirLight/assets/144074897/05f07f19-7caa-450a-bf77-9aafb0f89d69)
 
 Project Components
 Materials:
