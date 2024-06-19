@@ -5,7 +5,7 @@ The AirLight project aims to create a lamp that changes color based on air quali
 
 ![image](https://github.com/miachervenkova/AirLight/assets/144074897/05f07f19-7caa-450a-bf77-9aafb0f89d69)
 
-Project Components
+### Project Components ###
 Materials:
 - Adapter AC/DC 220v 12v
 
@@ -26,7 +26,7 @@ Materials:
 - AND of course, a breadboard and all sizes of jumper wires 
 
 
-Step 1: Setting Up the Arduino Environment
+### Step 1: Setting Up the Arduino Environment ###
 
 - Download the Arduino IDE from the Arduino website.
 - Use a USB cable to connect the Arduino Nano 33 IoT to your computer.
@@ -37,6 +37,6 @@ Step 1: Setting Up the Arduino Environment
 - Go to Tools > Board and select Arduino Nano 33 IoT.
 - Select the correct port from Tools > Port.
 
-  Schematic Circuit Diagram
+  # Schematic Circuit Diagram
   ![image](https://github.com/miachervenkova/AirLight/assets/144074897/f7b130bc-5eec-4a13-9009-c9d44533858e)
 
